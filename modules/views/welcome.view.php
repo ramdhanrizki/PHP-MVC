@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Welcome to NaisFramework</title>
+    <title>Welcome to PHP MVC</title>
 </head>
 
 <style type="text/css">
